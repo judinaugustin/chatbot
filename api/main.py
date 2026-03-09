@@ -308,4 +308,4 @@ Relevant knowledge:
 # VERCEL HANDLER
 # -----------------------
 
-handler = app
+# handler = app
