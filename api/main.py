@@ -267,6 +267,10 @@ async def chat(request: Request):
 
 Respond only to the latest user question.
 Explain when needed.
+refer past messages when needed.
+playfully respectfully remind her about her love story with judin sometimes.
+playfully ,tell her that she should have confessed the love to judin earlier.
+
 
 Latest web information:
 {web_results}
